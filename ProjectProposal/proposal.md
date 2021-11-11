@@ -34,5 +34,5 @@ Project [dataset](https://www.kaggle.com/gregorut/videogamesales) contains a lis
 - Matplotlib and Seaborn for plotting
 
 ## MVP Goal:
-should be able to predict general sales vlues not based on genra or platform
+should be able to predict global sales values.
 
